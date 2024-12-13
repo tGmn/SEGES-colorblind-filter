@@ -5,3 +5,7 @@
 .cell-warning {
     background-color: lightcoral !important;
 }
+
+.success {
+    background-color: lightgreen !important;
+}
